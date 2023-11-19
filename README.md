@@ -1,5 +1,5 @@
 # Algorithms3
-Educational project. 2nd course. "Basics of Algorithms, Part 1."
+Educational project. 2nd course. "Basics of Algorithms, Part 3."
 
 In this task you will bring the ArrayList implementation to one of the standard Java libraries.
 Step 1. Implement the private grow method, which will be responsible for expanding the storage array by 1.5 times in a situation where the space has run out.
